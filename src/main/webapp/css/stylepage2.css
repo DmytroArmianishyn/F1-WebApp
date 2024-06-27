@@ -1,0 +1,54 @@
+#myVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+
+}
+.slogon{
+    -webkit-text-stroke: 1px #7a0404;
+}
+.content-all{
+    z-index: 2;
+    position: absolute;
+
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+.tableracer{
+    font-weight: bolder;
+    font-size: 15px;
+    color: whitesmoke;
+    border-collapse: separate;
+    border-spacing: 1px;
+    background: #00000099;
+    backdrop-filter: blur(10px);
+    border: 7px solid #7a0404;
+    border-radius: 10px;
+}
+td{
+    background: #56575699;
+    backdrop-filter: blur(10px);
+    padding: 10px;
+
+}
+.butt{
+
+  margin-left: 26.5%;
+z-index: 100;
+    margin-top: 1.2%;
+    position: absolute;
+    border: medium none;
+    float: left;
+    background-color: transparent;
+}
+
+.photo-button{
+
+    background: transparent;
+    width: 100px;
+    height: 70px;
+}
